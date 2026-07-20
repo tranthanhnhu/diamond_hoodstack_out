@@ -2,4 +2,4 @@ User-Agent: *
 Allow: /
 Disallow: /styleguide
 
-Sitemap: https://hoodstack.example/sitemap.xml
+Sitemap: https://hoodstack.space/sitemap.xml
